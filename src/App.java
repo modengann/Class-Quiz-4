@@ -26,15 +26,6 @@ public class App {
 
 
 
-
-Since its two trailers individually have a total of 23 seats, c1 can seat 26 or fewer people.
-Because c2’s two single trailers are not the same light quality, its desirability is 20 units less than the average of 65.0 and 60.0
-Changing the room quality of one of the Trailers that makes up c2 changes the room quality of c2, as illustrated in the next line of the chart. Since setRoomQuality is a Trailer method, you do not need to write it. 
-Because the view quality of t2 changed, the desirability of c2 has also changed. 
-
-
-
-
         
 
 
